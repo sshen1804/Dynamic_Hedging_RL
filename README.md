@@ -1,3 +1,5 @@
+#Dynamic Replication and Hedging: A Reinforcement Learning Approach
+
 Dynamic Option Hedging constitutes a fundamental problem in finance since the seminal work of Black-Scholes-Merton (BSM). However, the traditional assumptions of perfect markets – frictionless trading and continuous-time operations – prove unrealistic in practice. The studied paper proposes an innovative approach using Reinforcement Learning (RL) to optimize hedging strategies under more realistic conditions incorporating discrete time, transaction costs, and liquidity constraints.
 
 The key contributions of this research are threefold:

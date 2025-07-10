@@ -4,6 +4,8 @@ Dynamic Option Hedging constitutes a fundamental problem in finance since the se
 
 The key contributions of this research are threefold:
 
-Generic Framework: The authors develop a versatile method for training autonomous agents to find the optimal balance between cost minimization and variance reduction.
-Continuous State Spaces: Their RL approach effectively handles continuous state spaces, thereby overcoming the notorious curse of dimensionality.
+Generic Framework: Develop a versatile method for training autonomous agents to find the optimal balance between cost minimization and variance reduction.
+
+Continuous State Spaces: RL approach effectively handles continuous state spaces, thereby overcoming the notorious curse of dimensionality.
+
 Empirical Results: Demonstrated significant reduction in transaction costs without material degradation of volatility performance.
